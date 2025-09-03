@@ -24,26 +24,15 @@
 
 ---
 
-### 🚀 Selected Projects
-Below are a few highlighted repositories; I can refine once you give me 1–2 sentence “impact blurbs” and tech stacks.
+### Selected Projects
 
-| Project | What It Does | Stack | Key Impact |
-|---------|--------------|-------|------------|
-| `macs-33002-2025s-PaulWang-Uchicago` | 🚧 PLACEHOLDER: Course / project focus | 🚧 | 🚧 |
-| `a3-PaulWang-Uchicago` | 🚧 | 🚧 | 🚧 |
-| `a2-PaulWang-Uchicago` | 🚧 | 🚧 | 🚧 |
-| `a1-PaulWang-Uchicago` | 🚧 | 🚧 | 🚧 |
-| (Add external / personal project) | 🚧 | 🚧 | 🚧 |
+## Emerald Heatwaves and Concrete Crimes: Greenness-Cooling Synergies in Toronto, 2014-2024
+[View Repository →](https://github.com/PaulWang-Uchicago/Coding-Sample/tree/main/Large-Scale%20Computing%20Project)
+Leveraging a large-scale fusion of 411,996 geocoded crime incidents, 158 GB of Landsat-8/9 imagery, 489,328 aggregated hourly foot-traffic records, and 3,432 school-point records, I develop a novel, hex-cell–based analytical framework to quantify how urban greening (NDVI) and surface cooling (LST) jointly influence crime patterns in Toronto from 2014 to 2024. By fusing these layers in a distributed geospatial pipeline (Dask and Rasterio‑Dask), I discover a non‑linear, zone‑specific greenness–cooling synergy. Robust statistical models that incorporate hex and month fixed effects and HC3 heteroskedasticity-consistent standard errors confirm that the triple-interaction term (High-school × NDVI × LST) yields a −0.321 SD effect, equating to a 12 % reduction in monthly crime in school corridors. The project demonstrates how large-scale computation can turn environmental amenities into actionable safety policy.
 
-👉 Want a cleaner showcase? I can generate shields, GIF demos, or collapsible details per repo.
-
----
-
-### 📊 Analytics Snapshot
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PaulWang-Uchicago&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulWang-Uchicago&layout=compact&hide_border=true&langs_count=8" />
-</p>
+## FOMC Sentiment & Manufacturing New Orders
+[View Repository →](https://github.com/PaulWang-Uchicago/Coding-Sample/tree/main/FOMC%20Project)
+This project investigates whether the tone of Federal Open Market Committee (FOMC) communications can improve forecasts of monthly U.S. manufacturing new orders. I construct two dictionary-based sentiment indices from FOMC minutes and statements using a curated economic vocabulary and explore their predictive value alongside traditional macroeconomic indicators (e.g., PPI, oil prices, CPI, unemployment). Finding that sentiment scores alone explain little variance in the target, I develop a multi-stage unsupervised pipeline, including TF–IDF clustering, BERTopic, FinBERT tone detection, and PCA, to extract latent textual features from Fed communications. I integrate these with macro series and autoregressive lags into a Random Forest model that achieves high out-of-sample performance (R² = 0.9835, RMSE = 0.042). Despite the rich text-mining framework, results show that realized fundamentals, especially cost pressures and order momentum, remain the dominant drivers of manufacturing behavior, while FOMC tone contributes only marginally. This suggests that while central-bank rhetoric shapes expectations, it exerts limited influence on high-frequency production planning. I conclude that sentiment features may be more useful for structural regime classification than for real-time forecasting of industrial outcomes.
 
 ---
 
