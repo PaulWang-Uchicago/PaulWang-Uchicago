@@ -7,7 +7,7 @@
   </strong>
   <br/><br/>
   <strong>
-    Just like on the tennis court 🎾, I get a thrill from chasing down every stray ball (or dataset) <br/>
+    Just like on the tennis court 🎾, I get a thrill from chasing down every stray ball <br/>
     and turning it into a winning shot. I love building research-grade pipelines that make results <br/>
     reproducible, auditable, and useful for decision-makers — because in both tennis and research, <br/>
     consistency is how you win the match. 😎
