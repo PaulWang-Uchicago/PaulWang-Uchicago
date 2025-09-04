@@ -2,15 +2,15 @@
 <h1 align="center"> Zechong (Paul) Wang </h1>
 <p align="center">
   <strong>
-    📊 Econ Research & ML · RA on CMF Microdata · Python · Stata · AWS <br/>
-    🎓 UChicago MACSS Econ '26 | NYU Math + Econ '24
+    Econ Research & ML · RA on CMF Microdata · Python · Stata · AWS <br/>
+    UChicago MACSS Econ '26 | NYU Math + Econ '24
   </strong>
   <br/><br/>
   <strong>
     Just like on the tennis court 🎾, I get a thrill from chasing down every stray ball <br/>
     and turning it into a winning shot. I love building research-grade pipelines that make results <br/>
     reproducible, auditable, and useful for decision-makers — because in both tennis and research, <br/>
-    consistency is how you win the match. 😎
+    consistency is how you win the match.
   </strong>
 </p>
 
