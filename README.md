@@ -38,3 +38,14 @@ This project investigates whether the tone of Federal Open Market Committee (FOM
 ### Computational Macroeconomics -- Coding sample
 [View Repository →](https://github.com/PaulWang-Uchicago/Coding-Sample/tree/main/Economic%20Modeling) This repository highlights my ability to formulate and solve dynamic macroeconomic models using a variety of numerical techniques. The files demonstrate how I approach stochastic growth, consumption–savings, and money-in-utility models with different solution strategies, ranging from basic root-finding to advanced projection methods.
 
+---
+### CMF Data Corrections & Anomaly Detection -- Coding sample
+
+This folder showcases part of my Research Assistant work for Professor Richard Hornbeck** on the Census of Manufactures (CMF) microdata project at the University of Chicago.  
+It contains Jupyter notebooks and Python scripts I developed to improve the quality of digitized historical manufacturing census records (1850–1880).  
+The files fall into two main categories:
+
+- **Finder tools**: Notebooks that systematically detect anomalies, inconsistencies, and transcription errors in establishment-level CMF datasets (1860–1880), including both general schedules and supplemental schedules. These tools highlight outliers, missing values, and cross-variable inconsistencies for review.  
+- **Correction tools**: Notebooks and scripts that apply targeted fixes to identified issues across years and schedules. These include transcription corrections, variable standardization, and rule-based adjustments to ensure consistent, high-quality data across cleaned CMF datasets.  
+
+Together, these tools form the backbone of a reproducible **error-detection and correction pipeline**, enhancing the reliability of historical CMF microdata for economic research.
