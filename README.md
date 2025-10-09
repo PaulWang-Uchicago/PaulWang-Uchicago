@@ -2,7 +2,7 @@
 <h1 align="center"> Zechong (Paul) Wang </h1>
 <p align="center">
   <strong>
-    Econ Research & ML · RA on CMF Microdata · Python · Stata · AWS <br/>
+    Econ Research · RA on CMF Microdata · Python · Stata · AWS <br/>
     UChicago MACSS Econ '26 | NYU Math + Econ '24
   </strong>
   <br/><br/>
